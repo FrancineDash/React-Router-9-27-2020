@@ -3,7 +3,7 @@ import './style/App.css';
 import Home from "./components/Home"
 import Cool from "./components/cool"
 import Nav from "./components/Nav";
-import DataPage from  "./components/DataPage";
+import DataPage from "./components/DataPage";
 import BoxOne from "./components/BoxOne";
 import BoxTwo from "./components/BoxTwo";
 import Boxy from "./components/Boxy";
